@@ -1,1 +1,2 @@
-this is chap 6 guys,
+thi is chap 6 guys, this is modified
+i also added new line here
